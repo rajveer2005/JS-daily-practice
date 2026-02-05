@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.app{
+  display: grid;
+  grid-template-rows: 150px;
+}
+
+.app-main{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 40px 8%;
+}
+.task-columnn{
+  background-color: blueviolet;
+  height: 100%;
+  width: 100%;
+  padding: 5px ;
+  margin: 10px;
+}
